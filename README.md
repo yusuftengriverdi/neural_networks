@@ -7,5 +7,4 @@ Then, I started with U-net.
 
 Also, I tried k-fold-cross-validation with CNN. 
 
-Dataset, that I work on it, is from Kaggle Contest. https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip. If you do not want to download that use my 60.0 mb uploaded training_load.np file.  
-
+Dataset, that I work on it, is from Kaggle Contest. https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip. 
