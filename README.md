@@ -1,5 +1,5 @@
 # neural_networks
-Investigation of Cats &amp; Dogs classical distinguish application of NNs with CNN and U-net. Framework is PyTorch. 
+Investigation of Cats &amp; Dogs classical distinguish application of NNs with CNN. Framework is PyTorch. 
 
 Credits to video-blog tutorial series, which started me to understand both pytorch & nns https://pythonprogramming.net/introduction-deep-learning-neural-network-pytorch/. Starter kick scripts from this video-blog.
 
